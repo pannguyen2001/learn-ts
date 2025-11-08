@@ -1,0 +1,251 @@
+id,name,firstname,lastname,age,nationality,height,weight,number,position,photo,birthday,birthplace,country
+2659,Omar Ammar,Omar,Ammar,19,,,,,Midfielder,https://media.api-sports.io/football/players/2659.png,,,
+2965,M. Kanzari,,Kanzari,,,,,,,https://media.api-sports.io/football/players/2965.png,,,
+2966,M. Okbi,,Okbi,,,,,,,https://media.api-sports.io/football/players/2966.png,,,
+3020,K. Bukasa,,Bukasa,32,,,,,Defender,https://media.api-sports.io/football/players/3020.png,,,
+3030,C. Ngulubi,,Ngulubi,26,,,,,Midfielder,https://media.api-sports.io/football/players/3030.png,,,
+3114,D. Assiongbo,,Assiongbo,21,,,,14,Defender,https://media.api-sports.io/football/players/3114.png,,,
+3121,J. Landel,,Landel,20,,,,5,Defender,https://media.api-sports.io/football/players/3121.png,,,
+3122,Ismael Sylla,Ismael,Sylla,27,Guinea,,,15,Defender,https://media.api-sports.io/football/players/3122.png,1998-01-01,,Guinea
+3124,M. Camara,,Camara,22,,,,23,Midfielder,https://media.api-sports.io/football/players/3124.png,,,
+3126,M. N'diaye,,N'diaye,21,,,,8,Midfielder,https://media.api-sports.io/football/players/3126.png,,,
+3129,M. Thiam,Mohamed,Thiam,29,Guinea,,,4,Midfielder,https://media.api-sports.io/football/players/3129.png,1996-06-22,,Guinea
+3142,J. Rafelambolasoa,,,34,,,,,Defender,https://media.api-sports.io/football/players/3142.png,,,
+3145,P. Ratahinjanahary,,,,,,,,Defender,https://media.api-sports.io/football/players/3145.png,,,
+3150,J. Marobe,,,34,,,,,Midfielder,https://media.api-sports.io/football/players/3150.png,,,
+3254,D. Kanjaa,,,,,,,,Defender,https://media.api-sports.io/football/players/3254.png,,,
+3255,F. Karongee,,,35,,,,,Defender,https://media.api-sports.io/football/players/3255.png,,,
+3269,Itamunua Keimuine,Itamunua,Keimuine,26,,,,,Attacker,https://media.api-sports.io/football/players/3269.png,,,
+3271,W. Pinehas,,,,,,,,Attacker,https://media.api-sports.io/football/players/3271.png,,,
+3297,Ndulu,,,23,,,,,Goalkeeper,https://media.api-sports.io/football/players/3297.png,,,
+3298,Beny Tchssingui,,,,,,,,Goalkeeper,https://media.api-sports.io/football/players/3298.png,,,
+3310,Sozito,,,,,,,,Defender,https://media.api-sports.io/football/players/3310.png,,,
+3318,Megue,,,,,,,,Midfielder,https://media.api-sports.io/football/players/3318.png,,,
+3358,Z. Youba,,,20,,,,13,Defender,https://media.api-sports.io/football/players/3358.png,,,
+3359,S. Abdallahi,Moussa Samba,Abdallah,36,Mauritania,,,20,Midfielder,https://media.api-sports.io/football/players/3359.png,1988-12-31,,Mauritania
+3361,M. Baghayoko,Moussa Sidi,Bagayoko,41,Mauritania,,,,Midfielder,https://media.api-sports.io/football/players/3361.png,1983-12-31,,Mauritania
+3373,K. Traoré,Karamogho Moussa,Traoré,36,Mauritania,190 cm,75 kg,9,Attacker,https://media.api-sports.io/football/players/3373.png,1988-12-31,Nouakchott,Mauritania
+3377,S. Glodjinon,Steve,Glodjinon,31,Benin,,,,Goalkeeper,https://media.api-sports.io/football/players/3377.png,1993-12-18,,Benin
+3648,D. Buxaj,Daniel,Buxaj,24,Albania,,,,Defender,https://media.api-sports.io/football/players/3648.png,2000-08-09,Gjirokastër,Albania
+3658,T. Zoi,Thoma,Zoi,24,Albania,,,,Defender,https://media.api-sports.io/football/players/3658.png,2000-09-05,Gjirokastër,Albania
+3662,A. Bella,Aristotel,Bella,25,Albania,,,,Midfielder,https://media.api-sports.io/football/players/3662.png,2000-01-29,Volos,Greece
+3668,K. Kondili,Kostandin,Kondili,25,Albania,,,,Midfielder,https://media.api-sports.io/football/players/3668.png,1999-10-04,,Greece
+3672,Gerard Salaria,Gerard,Salaria,24,Albania,,,,Midfielder,https://media.api-sports.io/football/players/3672.png,2000-07-22,Gjirokastër,Albania
+3674,D. Andoni,Dhimitër,Andoni,26,Albania,,,,Attacker,https://media.api-sports.io/football/players/3674.png,1998-09-12,Athína,Greece
+3677,F. Lazaj,Fjorald,Lazaj,25,Albania,,,,Attacker,https://media.api-sports.io/football/players/3677.png,1999-09-08,Gjirokastër,Albania
+3679,A. Çekrezi,Amarildo,Çekrezi,31,Albania,,,,Goalkeeper,https://media.api-sports.io/football/players/3679.png,1993-08-11,Elbasan,Albania
+3681,M. Ziri,Muhamet,Ziri,23,Albania,,,,Goalkeeper,https://media.api-sports.io/football/players/3681.png,2001-08-02,Tiranë,Albania
+3719,A. Balliu,Albi,Balliu,25,Albania,,,,Midfielder,https://media.api-sports.io/football/players/3719.png,1999-11-22,Tiranë,Albania
+3726,K. Nazari,Kevin,Nazari,27,Albania,,,,Midfielder,https://media.api-sports.io/football/players/3726.png,1997-12-15,Tiranë,Albania
+3794,I. Allmuça,,,,,,,,,https://media.api-sports.io/football/players/3794.png,,,
+4062,Semir Gjokaj,Semir,Gjokaj,38,Albania,,,,Midfielder,https://media.api-sports.io/football/players/4062.png,1986-07-11,Shkodër,Albania
+4130,Altjon Hoxha,Altjon,Hoxha,31,Albania,,,,Midfielder,https://media.api-sports.io/football/players/4130.png,1993-11-20,Bulqizë,Albania
+4389,M. Negab,Mohamed Lamine,Negab,35,Algeria,,,,Goalkeeper,https://media.api-sports.io/football/players/4389.png,1989-09-17,,Algeria
+4397,A. Nameur,Abdelhak,Nameur,30,Algeria,,,,Defender,https://media.api-sports.io/football/players/4397.png,1994-07-28,Beni Messous,Algeria
+4403,M. Hambli,Mohamed Zakaria,Hambli,26,Algeria,,,,Midfielder,https://media.api-sports.io/football/players/4403.png,1998-07-02,Hydra,Algeria
+4415,A. Saidoune,Anouar,Saidoune,27,Algeria,,,,Goalkeeper,https://media.api-sports.io/football/players/4415.png,1998-01-18,,Algeria
+4417,K. Ait idir,Karim,Ait Idir,28,Algeria,,,,Defender,https://media.api-sports.io/football/players/4417.png,1997-02-04,Freha,Algeria
+4430,M. Kabari,Mohamed Amine,Kabari,32,Algeria,,,,Midfielder,https://media.api-sports.io/football/players/4430.png,1993-05-29,Ain M'lila,Algeria
+4445,K. Benmouna,Karim,Benmouna,28,Algeria,,,,Defender,https://media.api-sports.io/football/players/4445.png,1997-01-09,,Algeria
+4453,T. Arezki,Tarik,Arezki,28,Algeria,,,,Midfielder,https://media.api-sports.io/football/players/4453.png,1997-03-06,Akbou,Algeria
+4521,I. Medafai,Ilias,Medafai,26,Algeria,,,,Midfielder,https://media.api-sports.io/football/players/4521.png,1998-08-05,Maghnia,Algeria
+4568,Y. Roudine,Yacine,Roudine,34,Algeria,,,,Defender,https://media.api-sports.io/football/players/4568.png,1991-01-20,Algiers,Algeria
+4604,M. Bramki,Mohamed Amine,Bramki,29,Algeria,,,,Midfielder,https://media.api-sports.io/football/players/4604.png,1996-03-06,,Algeria
+4620,A. Maïza,Abdelkrim,Maïza,31,Algeria,,,,Goalkeeper,https://media.api-sports.io/football/players/4620.png,1994-06-13,Bordj Bou Arréridj,Algeria
+4632,W. Athmani,Walid,Athmani,33,Algeria,,,,Midfielder,https://media.api-sports.io/football/players/4632.png,1992-04-18,,Algeria
+4651,B. Adraoui,Mohamed Bachir,Adraoui,29,Algeria,,,,Defender,https://media.api-sports.io/football/players/4651.png,1995-10-29,Aïn M'lila,Algeria
+4802,O. Addouane,Oussama,Addouane,27,Algeria,,,,Defender,https://media.api-sports.io/football/players/4802.png,1997-11-08,Biskra,Algeria
+4816,A. Hamzaoui,Ammar,Hamzaoui,33,Algeria,,,,Goalkeeper,https://media.api-sports.io/football/players/4816.png,1991-07-03,,Algeria
+4817,Chadouli,Chadouli,Chadouli,,Algeria,,,,Defender,https://media.api-sports.io/football/players/4817.png,,,Algeria
+4818,T. Sabbih,Tawfiq,Sabbih,33,Algeria,,,,Defender,https://media.api-sports.io/football/players/4818.png,1992-04-16,,Algeria
+4819,S. Zaoui,Samir,Zaoui,49,Algeria,190 cm,86 kg,,Defender,https://media.api-sports.io/football/players/4819.png,1976-06-03,Aïn Boucif,Algeria
+4820,S. Zazou,Samir,Zazou,45,Algeria,177 cm,75 kg,,Defender,https://media.api-sports.io/football/players/4820.png,1980-03-24,Sidi-bel-Abbès,Algeria
+4821,D. Akrour,Djebar,Akrour,42,Algeria,,,,Midfielder,https://media.api-sports.io/football/players/4821.png,1983-01-28,,Algeria
+4823,M. Messaoud,Mohamed,Messaoud,43,Algeria,,,,Midfielder,https://media.api-sports.io/football/players/4823.png,1981-11-19,,Algeria
+4824,P. Kouakou,Patrick Irénée,N'doua Kouakou,37,Côte d'Ivoire,176 cm,64 kg,,Midfielder,https://media.api-sports.io/football/players/4824.png,1988-03-20,Anyama,Côte d'Ivoire
+4825,K. Nait Yahia,Karim,Nait Yahia,44,Algeria,,,,Midfielder,https://media.api-sports.io/football/players/4825.png,1980-12-19,,Algeria
+4826,K. Sedkaoui,Kaci,Sedkaoui,38,Algeria,,,,Midfielder,https://media.api-sports.io/football/players/4826.png,1986-07-04,Hassi Bahbah,Algeria
+4827,M. Zaouche,Mohamed,Zaouche,42,Algeria,,,,Midfielder,https://media.api-sports.io/football/players/4827.png,1983-01-21,,Algeria
+4828,S. Badni,Said,Badni,0,Algeria,,,,Attacker,https://media.api-sports.io/football/players/4828.png,2025-06-25,,Algeria
+4830,A. Hadiouche,Abdenour,Hadiouche,40,Algeria,,,,Attacker,https://media.api-sports.io/football/players/4830.png,1984-12-30,Bouira,Algeria
+4831,A. Sbaihia,Abdelkadir,Sbaihia,0,Algeria,,,,Attacker,https://media.api-sports.io/football/players/4831.png,2025-06-25,,Algeria
+4832,S. Touili,Sidali,Touili,0,Algeria,,,,Attacker,https://media.api-sports.io/football/players/4832.png,2025-06-25,,Algeria
+5052,Eloy,Eloy,Casals Rubio,42,Spain,178 cm,76 kg,,Goalkeeper,https://media.api-sports.io/football/players/5052.png,1982-10-22,Lleida,Spain
+5062,Juanfer,Juan Fernando,Láin González,42,Spain,178 cm,73 kg,,Midfielder,https://media.api-sports.io/football/players/5062.png,1983-05-05,Barcelona,Spain
+5068,Eric Cadi,Eric Marcial,Cadi,27,Andorra,,,,Attacker,https://media.api-sports.io/football/players/5068.png,1998-02-11,,Andorra
+5070,Ibán Parra,Ibán,Parra López,47,Spain,187 cm,84 kg,,Attacker,https://media.api-sports.io/football/players/5070.png,1977-10-18,Lleida,Spain
+5076,Dídac Giribet,Didac,Giribet Iglesias,30,Andorra,,,,Goalkeeper,https://media.api-sports.io/football/players/5076.png,1994-07-07,,Andorra
+5088,Roger Ezquer,Roger,Ezquer Cardona,0,Spain,,,,Midfielder,https://media.api-sports.io/football/players/5088.png,2025-06-25,,Spain
+5101,Paulo Pinho,Paulo,Pinho,0,Andorra,,,,U,https://media.api-sports.io/football/players/5101.png,2025-06-25,,Andorra
+5108,Mateo Firpo,Mateo,Rodriguez Firpo,32,Spain,180 cm,79 kg,,Defender,https://media.api-sports.io/football/players/5108.png,1993-05-25,,Uruguay
+5253,F. Carrillo,Facundo,Carrillo,28,Argentina,,,,Attacker,https://media.api-sports.io/football/players/5253.png,1997-02-26,Monte Grande,Argentina
+5271,A. Gallego,Alejandro,Gallego,29,Argentina,,,,Midfielder,https://media.api-sports.io/football/players/5271.png,1996-04-18,,Argentina
+5273,I. Kabobel,Iván,Kabobel,27,Argentina,182 cm,75 kg,,Midfielder,https://media.api-sports.io/football/players/5273.png,1997-07-11,,Argentina
+5279,L. Carrachino,Lautaro Iván,Carrachino,28,Argentina,178 cm,,,Attacker,https://media.api-sports.io/football/players/5279.png,1997-04-16,Morón,Argentina
+5285,F. Urciuoli,,,,,,,,,https://media.api-sports.io/football/players/5285.png,,,
+5314,C. Zarco,Cristian Osvaldo,Zarco,29,Argentina,,,,Attacker,https://media.api-sports.io/football/players/5314.png,1996-04-20,,Argentina
+5335,E. Izaguirre,Emir Ezequiel,Izaguirre,30,Argentina,,,,Attacker,https://media.api-sports.io/football/players/5335.png,1995-01-26,Viale,Argentina
+5344,M. Barbero,Alan Miguel,Barbero,28,Argentina,173 cm,,,Defender,https://media.api-sports.io/football/players/5344.png,1996-10-28,Mendoza,Argentina
+5360,S. Oga,Sergio Matías,Oga,43,Argentina,184 cm,,,Midfielder,https://media.api-sports.io/football/players/5360.png,1981-09-15,Córdoba,Argentina
+5482,G. Erazún,Gonzalo,Erazún,28,Argentina,,,,Defender,https://media.api-sports.io/football/players/5482.png,1996-10-30,Pehuajó,Argentina
+5483,M. Fernández,Mariano,Fernández Gnazzo,37,Argentina,,,,Defender,https://media.api-sports.io/football/players/5483.png,1988-01-27,La Plata,Argentina
+5486,T. Lamas,Teo,Lamas,25,Argentina,,,,Defender,https://media.api-sports.io/football/players/5486.png,2000-02-19,Carlos Casares,Argentina
+5495,T. Gallo,Tomás,Gallo,25,Argentina,,,,Midfielder,https://media.api-sports.io/football/players/5495.png,1999-09-07,Carlos Casares,Argentina
+5513,F. Godoy,Federico Daniel,Godoy,29,Argentina,,,,Defender,https://media.api-sports.io/football/players/5513.png,1996-01-02,Campana,Argentina
+5528,N. Yaqué,Nahuel Sebastián,Yaqué,30,Argentina,,,,Midfielder,https://media.api-sports.io/football/players/5528.png,1995-03-18,Ciudadela,Argentina
+5538,T. Quilici,Facundo Tomás,Quilici,26,Argentina,,,,Goalkeeper,https://media.api-sports.io/football/players/5538.png,1998-09-30,,Argentina
+5608,J. Osan,Jonathan,Osan,28,Argentina,,,,Midfielder,https://media.api-sports.io/football/players/5608.png,1996-12-05,Garín,Argentina
+5640,Y. Holhman,Yoel,Holhman,26,Argentina,,,,Midfielder,https://media.api-sports.io/football/players/5640.png,1999-03-11,,Argentina
+5763,N. López,Fernando Nahuel,López,29,Argentina,,,,Midfielder,https://media.api-sports.io/football/players/5763.png,1996-01-22,Bahía Blanca,Argentina
+5855,B. Inveraldi,Brian Ignacio,Inveraldi,26,Argentina,,,,Midfielder,https://media.api-sports.io/football/players/5855.png,1998-12-02,,Argentina
+6181,M. Juárez,Matías Daniel,Juárez Romero,28,Argentina,173 cm,69 kg,29,Midfielder,https://media.api-sports.io/football/players/6181.png,1997-01-03,Córdoba,Argentina
+6270,L. Areal,Leonardo Jorge,Areal,28,Argentina,180 cm,70 kg,,Midfielder,https://media.api-sports.io/football/players/6270.png,1996-12-13,Mar del Plata,Argentina
+6406,R. Braña,Rodrigo,Braña,46,Argentina,167 cm,71 kg,22,Midfielder,https://media.api-sports.io/football/players/6406.png,1979-03-07,Berazategui,Argentina
+6455,S. Bertoli,Sebastián Hernán,Bertoli,47,Argentina,185 cm,81 kg,1,Goalkeeper,https://media.api-sports.io/football/players/6455.png,1977-10-16,Paraná,Argentina
+6481,E. Quinteros,Enzo,Quinteros,27,Argentina,,,,Midfielder,https://media.api-sports.io/football/players/6481.png,1998-04-25,Paraná,Argentina
+6674,E. Gómez,Esteban Matías,Gómez,29,Argentina,,,26,Defender,https://media.api-sports.io/football/players/6674.png,1996-06-24,,Argentina
+6757,J. Ruggiero,Joseph,Ruggiero,0,Australia,,,,Goalkeeper,https://media.api-sports.io/football/players/6757.png,2025-06-25,,Australia
+6763,T. Veart,Thomas,Veart,0,Australia,,,,Defender,https://media.api-sports.io/football/players/6763.png,2025-06-25,,Australia
+6766,J. Kogoj,Jozef,Kogoj,25,Australia,,,,Midfielder,https://media.api-sports.io/football/players/6766.png,2000-04-04,,Australia
+6767,A. Maio,Andrew,Maio,0,Australia,,,,Midfielder,https://media.api-sports.io/football/players/6767.png,2025-06-25,,Australia
+6768,Y. Matsumoto,Yohei,Matsumoto,32,Japan,,,18,Midfielder,https://media.api-sports.io/football/players/6768.png,1993-05-19,,Japan
+6867,J. Palazzolo,Jack,Palazzolo,25,Australia,,,,Attacker,https://media.api-sports.io/football/players/6867.png,2000-04-29,,Australia
+11924,N. Martínez,Nicolás,Martínez,0,Chile,,,,Midfielder,https://media.api-sports.io/football/players/11924.png,2025-06-25,,Chile
+11926,D. Muñoz,Diego,Muñoz,0,Chile,,,,Midfielder,https://media.api-sports.io/football/players/11926.png,2025-06-25,,Chile
+11940,F. Menéndez,Francisco,Menéndez Azcarraga,28,Chile,,,,Attacker,https://media.api-sports.io/football/players/11940.png,1997-06-04,,Chile
+11942,R. Ávila,,Ávila,,,,,,,https://media.api-sports.io/football/players/11942.png,,,
+12140,L. Alaníz,Lucas Ariel,Alaníz,29,Argentina,,,,Defender,https://media.api-sports.io/football/players/12140.png,1996-03-19,Ituzaingó,Argentina
+12145,J. Muñoz,Juan Pablo,Muñoz Pérez,28,Chile,,,,Defender,https://media.api-sports.io/football/players/12145.png,1997-06-24,,Chile
+12146,D. Nieto,Diego,Nieto Campodónico,29,Chile,,,,Defender,https://media.api-sports.io/football/players/12146.png,1996-04-02,Providencia - Santiago,Chile
+12148,D. Barreto,Daniel,Barreto Castillo,25,Argentina,,,,Midfielder,https://media.api-sports.io/football/players/12148.png,2000-02-10,Morón,Argentina
+12154,M. Navarro,Matías,Navarro Hernández,29,Chile,,,,Midfielder,https://media.api-sports.io/football/players/12154.png,1996-05-12,Valdivia,Chile
+12160,C. Ramirez,Cristobal Enrique,Ramirez Castro,27,Chile,,,,Midfielder,https://media.api-sports.io/football/players/12160.png,1997-07-07,Valdivia,Chile
+12161,D. Rivera,Diego,Rivera,25,Chile,,,,Midfielder,https://media.api-sports.io/football/players/12161.png,2000-01-30,,Chile
+12168,L. Acuña,Luis,Acuña,29,Chile,,,,Attacker,https://media.api-sports.io/football/players/12168.png,1996-05-05,,Chile
+12169,M. Contreras,Mijhael David,Contreras Gatica,28,Chile,175 cm,70 kg,,Attacker,https://media.api-sports.io/football/players/12169.png,1996-07-06,,Chile
+12317,F. Maldonado,Fernando,Maldonado Araneda,0,Chile,,,,Midfielder,https://media.api-sports.io/football/players/12317.png,2025-06-25,,Chile
+12613,Wang Jun,Jun,Wang,24,China PR,182 cm,74 kg,19,Attacker,https://media.api-sports.io/football/players/12613.png,2000-11-13,,China PR
+12770,Li Haitao,Haitao,Li,29,China PR,191 cm,88 kg,23,Goalkeeper,https://media.api-sports.io/football/players/12770.png,1995-11-29,,China PR
+13140,E. Cabarique,Eduar Andrés,Cabarique Fernández,25,Colombia,,,,Midfielder,https://media.api-sports.io/football/players/13140.png,1999-12-10,Yondó,Colombia
+13154,J. Rueda,Juan Diego,Rueda Sandoval,24,Colombia,,,,Midfielder,https://media.api-sports.io/football/players/13154.png,2000-10-08,Girón,Colombia
+13160,M. Méndez,Michael Eduardo,Méndez Cardona,25,Colombia,,,,Attacker,https://media.api-sports.io/football/players/13160.png,2000-04-16,Barrancabermeja,Colombia
+13161,J. Prent,Juan Sebastián,Prent Castro,25,Colombia,,,,Attacker,https://media.api-sports.io/football/players/13161.png,2000-03-07,Barrancabermeja,Colombia
+13205,J. Jerez,Julian Camilo,Jerez Hernández,26,Colombia,,,,Defender,https://media.api-sports.io/football/players/13205.png,1999-04-01,Bucaramanga,Colombia
+13213,J. Jiménez,Jhoel Andrés,Jiménez Arciniegas,26,Colombia,,,,Midfielder,https://media.api-sports.io/football/players/13213.png,1999-01-20,Floridablanca,Colombia
+13221,M. Ruiz,Marcos Alexander,Ruiz Mogollón,26,Colombia,,,,Midfielder,https://media.api-sports.io/football/players/13221.png,1999-04-30,Bucaramanga,Colombia
+13233,M. Mesa,Marcelo,Mesa Trujillo,27,Colombia,,,,Goalkeeper,https://media.api-sports.io/football/players/13233.png,1998-04-17,Neiva,Colombia
+13254,R. Goluma,Ricardo,Goluma Valderrama,24,Colombia,,,,Midfielder,https://media.api-sports.io/football/players/13254.png,2001-05-13,Gigante,Colombia
+13345,S. Alvis,Santiago,Alvis Cortés,25,Colombia,,,,Attacker,https://media.api-sports.io/football/players/13345.png,2000-02-17,Cali,Colombia
+13418,K. Zapata,Kevin Feleidier,Zapata Banguero,27,Colombia,,,,Goalkeeper,https://media.api-sports.io/football/players/13418.png,1998-01-18,Padilla,Colombia
+13421,J. Cortés,Juan Diego,Cortés Acevedo,25,Colombia,,,,Defender,https://media.api-sports.io/football/players/13421.png,1999-08-11,Armenia,Colombia
+13422,D. Díaz,Diego Andrés,Díaz Quiñónes,25,Colombia,,,,Defender,https://media.api-sports.io/football/players/13422.png,1999-10-31,Pasto,Colombia
+13424,A. Lasso,Andrés Sebastian,Lasso Rosero,26,Colombia,,,,Defender,https://media.api-sports.io/football/players/13424.png,1999-05-18,Pasto,Colombia
+13443,E. Rosero,Emerson Ronaldo,Rosero Andrade,25,Colombia,,,,Midfielder,https://media.api-sports.io/football/players/13443.png,2000-01-01,Pasto,Colombia
+13446,C. Vergara,Cesar Orlando,Vergara Dajome,24,Colombia,,,,Midfielder,https://media.api-sports.io/football/players/13446.png,2000-07-27,Tumaco,Colombia
+13449,J. Caicedo,Juan Camilo,Caicedo Rodríguez,28,Colombia,,,,Attacker,https://media.api-sports.io/football/players/13449.png,1997-01-01,Cali,Colombia
+13800,A. Daza,Andrés Felipe,Daza Barraza,25,Colombia,,,,Defender,https://media.api-sports.io/football/players/13800.png,2000-03-01,Santa Marta,Colombia
+14493,T. Kovačević,,,19,,,,,,https://media.api-sports.io/football/players/14493.png,,,
+14892,M. Farkaš,Matija,Farkaš,25,Croatia,,,,Midfielder,https://media.api-sports.io/football/players/14892.png,2000-12-23,ÄŒakovec,Croatia
+14949,G. Karkotis,Giorgos,Karkotis,32,Cyprus,,,,Defender,https://media.api-sports.io/football/players/14949.png,1993-01-16,,Cyprus
+15251,C. Constantinou,,Constantinou,34,,,,,,https://media.api-sports.io/football/players/15251.png,,,
+15252,C. Kyriakou,,Kyriakou,22,,,,,,https://media.api-sports.io/football/players/15252.png,,,
+15253,C. Petrou,,Petrou,21,,,,,,https://media.api-sports.io/football/players/15253.png,,,
+15254,C. Siakou,,Siakou,33,,,,,,https://media.api-sports.io/football/players/15254.png,,,
+15255,T. Theocharous,,Theocharous,22,,,,,,https://media.api-sports.io/football/players/15255.png,,,
+16430,W. Valencia,Wagner Leonardo,Valencia Gomez,37,Ecuador,172 cm,,11,Midfielder,https://media.api-sports.io/football/players/16430.png,1988-05-17,Esmeraldas,Ecuador
+16433,A. Porozo,Anderson Javier,Porozo Vernaza,32,Ecuador,180 cm,,,Attacker,https://media.api-sports.io/football/players/16433.png,1993-04-23,San Lorenzo,Ecuador
+16488,A. Lemos,Alexi Ever,Lemos Castillo,36,Ecuador,190 cm,,1,Goalkeeper,https://media.api-sports.io/football/players/16488.png,1989-12-15,San Lorenzo,Ecuador
+16532,J. Ordoñez,jhonatan Mario,Ordoñez Quiñonez,24,Ecuador,,,18,Midfielder,https://media.api-sports.io/football/players/16532.png,2000-08-15,Rio Verde,Ecuador
+16534,O. Quispe,Oscar Geovanny,Quispe  Díaz,25,Ecuador,,,,Midfielder,https://media.api-sports.io/football/players/16534.png,2000-02-23,Quito,Ecuador
+16582,P. Amaya,Pablo Frank,Amaya Torres,48,Ecuador,,,51,Defender,https://media.api-sports.io/football/players/16582.png,1976-09-07,Santa Rosa,Ecuador
+16695,F. Fajardo,Fernando Rafael,Fajardo Ávila,38,Ecuador,183 cm,78 kg,14,Attacker,https://media.api-sports.io/football/players/16695.png,1987-03-02,Esmeraldas,Ecuador
+16747,A. Bolaños,Alex Leonardo,Bolaños Reascos,40,Ecuador,180 cm,75 kg,16,Midfielder,https://media.api-sports.io/football/players/16747.png,1985-01-22,San Lorenzo,Ecuador
+16749,J. Caicedo,Jiner Javier,Caicedo Luna,34,Ecuador,,,18,Midfielder,https://media.api-sports.io/football/players/16749.png,1991-04-27,Babahoyo,Ecuador
+16751,D. Carrera,Danilo Xavier,Carrera Huerta,36,Ecuador,,,84,Midfielder,https://media.api-sports.io/football/players/16751.png,1989-01-17,Guayaquil,Ecuador
+16764,J. Flecha,José Luis,Flecha González,37,Paraguay,,,9,Attacker,https://media.api-sports.io/football/players/16764.png,1988-03-19,,Paraguay
+16771,R. López,Rinson,López Ledesma,37,Colombia,,,,Defender,https://media.api-sports.io/football/players/16771.png,1987-10-22,Cali,Colombia
+16775,A. Chalá,Alexis Lonbardo,Chalá Chalá,35,Ecuador,,,,Midfielder,https://media.api-sports.io/football/players/16775.png,1990-02-05,Ibarra,Ecuador
+26699,A. Sousonis,Aristidis-Orestis,Sousonis,26,Greece,,,,Attacker,https://media.api-sports.io/football/players/26699.png,1999-04-24,,Greece
+26858,K. Fliskas,Kostantinos,Fliskas,44,Greece,179 cm,70 kg,,Defender,https://media.api-sports.io/football/players/26858.png,1980-12-29,Karditsa,Greece
+26942,G. Zografos,Giannis,Zografos,25,Greece,,,1,Goalkeeper,https://media.api-sports.io/football/players/26942.png,2000-05-28,,Greece
+27057,D. Setzas,Dimitris,Setzas,25,Greece,,,,Defender,https://media.api-sports.io/football/players/27057.png,1999-07-11,,Greece
+27067,T. Papageorgiou,Thanasis,Papageorgiou,26,Greece,,,6,Midfielder,https://media.api-sports.io/football/players/27067.png,1998-12-16,,Greece
+27070,N. Beikos,Nikos,Beikos,26,Greece,,,21,Attacker,https://media.api-sports.io/football/players/27070.png,1998-09-24,,Greece
+27169,C. Papoutsis,Christos,Papoutsis,25,Greece,,,3,Goalkeeper,https://media.api-sports.io/football/players/27169.png,1999-09-10,,Greece
+27172,I. Agtzidis,Ioannis,Agtzidis,32,Greece,176 cm,71 kg,6,Defender,https://media.api-sports.io/football/players/27172.png,1992-10-14,,Greece
+27201,V. Papageorgiou,Vangelis,Papageorgiou,26,Greece,,,99,Defender,https://media.api-sports.io/football/players/27201.png,1999-03-05,,Greece
+27204,V. Vosniadis,Vasilis,Vosniadis,29,Greece,,,89,Defender,https://media.api-sports.io/football/players/27204.png,1995-07-10,,Greece
+27252,K. Noka,Klinton,Noka,29,Greece,,,96,Attacker,https://media.api-sports.io/football/players/27252.png,1996-02-18,,Albania
+27258,G. Bárcena,Guillermo,Bárcena Blázquez,31,Cuba,,,2,Defender,https://media.api-sports.io/football/players/27258.png,1994-02-19,La Habana,Cuba
+27284,P. Gomos,Petros,Gomos,32,Greece,,,13,Goalkeeper,https://media.api-sports.io/football/players/27284.png,1992-08-05,,Greece
+27313,G. Pavlidis,Giorgos,Pavlidis,27,Greece,,,97,Attacker,https://media.api-sports.io/football/players/27313.png,1997-09-02,,Greece
+27415,L. Sotiriadis,Lefteris,Sotiriadis,26,Greece,,,88,Defender,https://media.api-sports.io/football/players/27415.png,1999-05-23,,Greece
+27427,S. Athanasiadis,Savvas,Athanasiadis,26,Greece,,,,Attacker,https://media.api-sports.io/football/players/27427.png,1999-05-10,,Greece
+27473,S. Arteaga,Samuel,Arteaga,0,Honduras,,,,Midfielder,https://media.api-sports.io/football/players/27473.png,2025-06-25,,Honduras
+27674,L. Matamoros,Luis,Matamoros,0,Honduras,,,,Midfielder,https://media.api-sports.io/football/players/27674.png,2025-06-25,,Honduras
+27682,M. Rodríguez,Mario César,Rodríguez Madrid,49,Honduras,175 cm,,,Midfielder,https://media.api-sports.io/football/players/27682.png,1975-07-31,Potrerillos,Honduras
+27687,M. Fonseca,Mario Alejandro,Fonseca Ortíz,25,Honduras,,,,Attacker,https://media.api-sports.io/football/players/27687.png,1999-10-04,Tegucigalpa,Honduras
+27689,O. Lambert,Odual,Lambert,0,Honduras,,,,Attacker,https://media.api-sports.io/football/players/27689.png,2025-06-25,,Honduras
+27707,S. Solórzano,Santos Gilberto,Solórzano Castillo,,Honduras,,,,Defender,https://media.api-sports.io/football/players/27707.png,,,Honduras
+27712,C. Ávila,Christian Gilberto,Ávila Lino,27,Honduras,,,,Midfielder,https://media.api-sports.io/football/players/27712.png,1997-07-24,Santa Rosa,Honduras
+27719,J. Guerrero,Jonathan,Guerrero,0,Honduras,,,,Midfielder,https://media.api-sports.io/football/players/27719.png,2025-06-25,,Honduras
+27738,R. Garrido,Rossel Edgardo,Garrido Galeas,32,Honduras,,,,Goalkeeper,https://media.api-sports.io/football/players/27738.png,1992-09-03,,Honduras
+27754,R. Gónzalez,Rosendo Jonathan,Gónzalez Hernández,33,Honduras,,,,Midfielder,https://media.api-sports.io/football/players/27754.png,1992-01-24,Jutiapa,Honduras
+27764,J. Sánchez,José Enrique,Sánchez Arita,28,Honduras,,,,Midfielder,https://media.api-sports.io/football/players/27764.png,1996-08-17,Tocoa,Honduras
+27773,A. Laureano,Alex Martín,Laureano Archaga,26,Honduras,,,,Attacker,https://media.api-sports.io/football/players/27773.png,1999-03-19,Tela,Honduras
+29030,N. Mohanraj,Nallappan,Mohanraj,36,India,177 cm,,48,Defender,https://media.api-sports.io/football/players/29030.png,1989-02-23,Namakkal,India
+29031,W. Niasso,William,Niasso,0,India,,,20,Defender,https://media.api-sports.io/football/players/29031.png,2025-06-25,,India
+29033,L. Pereira,Leny Levis,Pereira,0,India,,,,Defender,https://media.api-sports.io/football/players/29033.png,2025-06-25,,India
+29034,S. Pires,Shallum,Pires,33,India,,,3,Defender,https://media.api-sports.io/football/players/29034.png,1992-08-24,Sanvordem,India
+29036,S. Singh,Suraj,Singh,29,India,,,13,Defender,https://media.api-sports.io/football/players/29036.png,1995-12-06,,India
+29038,N. Castanha,Nickson,Castanha,30,India,,,24,Midfielder,https://media.api-sports.io/football/players/29038.png,1994-07-05,,India
+29041,A. Fernandes,Aniston,Fernandes,31,India,,,12,Midfielder,https://media.api-sports.io/football/players/29041.png,1993-07-04,Betalbatim,India
+29043,A. Gonsalves,Alber,Gonsalves,32,India,,,7,Midfielder,https://media.api-sports.io/football/players/29043.png,1992-10-25,,India
+29050,A. Rawat,Abhishek,Rawat,0,India,,,49,Midfielder,https://media.api-sports.io/football/players/29050.png,2025-06-25,,India
+29053,U. Rai,Uttam,Rai,28,India,,,11,Attacker,https://media.api-sports.io/football/players/29053.png,1996-12-20,Chumbung,India
+29055,A. Wolfe,Anthony,Wolfe,41,Trinidad and Tobago,175 cm,,46,Attacker,https://media.api-sports.io/football/players/29055.png,1983-12-23,Manzanilla,Trinidad and Tobago
+29284,J. Revi,Juan,Revi Auriqto,39,Indonesia,176 cm,67 kg,,Midfielder,https://media.api-sports.io/football/players/29284.png,1986-06-04,Surabaya,Indonesia
+29327,J. Meka,Januarius,Meka,0,Indonesia,,,,Goalkeeper,https://media.api-sports.io/football/players/29327.png,2025-06-25,,Indonesia
+29330,F. Apriansyah,Firli,Apriansyah,39,Indonesia,182 cm,78 kg,,Defender,https://media.api-sports.io/football/players/29330.png,1986-04-27,Jakarta,Indonesia
+29339,M. Fadila,Moch Nico,Fadila,27,Indonesia,,,,Midfielder,https://media.api-sports.io/football/players/29339.png,1998-04-25,,Indonesia
+29347,D. Ardika,Dimas,Ardika,0,Indonesia,,,,Attacker,https://media.api-sports.io/football/players/29347.png,2025-06-25,,Indonesia
+29349,B. Chalwa,Bijahil,Chalwa,34,Indonesia,,,,Attacker,https://media.api-sports.io/football/players/29349.png,1990-11-30,,Indonesia
+29352,H. Ronal,Habel,Ronal Rio Nugroho,27,Indonesia,175 cm,65 kg,,Attacker,https://media.api-sports.io/football/players/29352.png,1997-12-06,,Indonesia
+29353,D. Saputra,Dona,Saputra,27,Indonesia,,,23,Attacker,https://media.api-sports.io/football/players/29353.png,1998-01-02,,Indonesia
+29362,Ambrizal,Ammar,Ambrizal,44,Indonesia,182 cm,72 kg,,Defender,https://media.api-sports.io/football/players/29362.png,1981-02-01,,Indonesia
+29393,Habibi,Habibi,Habibi,26,Indonesia,170 cm,,,Midfielder,https://media.api-sports.io/football/players/29393.png,1998-10-15,,Indonesia
+29395,F. Hamzah,Febri Setiadi,Hamzah,41,Indonesia,184 cm,76 kg,,Midfielder,https://media.api-sports.io/football/players/29395.png,1984-02-03,,Indonesia
+29399,A. Tolle,Ahmad Hisyam,Tolle,31,Indonesia,178 cm,,,Midfielder,https://media.api-sports.io/football/players/29399.png,1994-01-07,Makassar,Indonesia
+29408,Kim Sang-Duk,Sang-Duk,Kim,40,Korea Republic,,,,Defender,https://media.api-sports.io/football/players/29408.png,1985-01-01,,Korea Republic
+29409,R. Onu,Rudi,Onu,0,Indonesia,,,,Defender,https://media.api-sports.io/football/players/29409.png,2025-06-25,,Indonesia
+29410,Edi Sukamto,Edi sibung,Sukamto,43,Indonesia,170 cm,65 kg,,Defender,https://media.api-sports.io/football/players/29410.png,1982-03-13,,Indonesia
+29411,A. Faizal,Ahmad,Faizal,0,Indonesia,,,,Attacker,https://media.api-sports.io/football/players/29411.png,2025-06-25,,Indonesia
+29417,J. Irawan,Junda,Irawan,29,Indonesia,,,,Defender,https://media.api-sports.io/football/players/29417.png,1996-05-31,Malang,Indonesia
+29425,I. Kurnia,Imam Bagus,Kurnia,29,Indonesia,,,,Midfielder,https://media.api-sports.io/football/players/29425.png,1995-07-22,,Indonesia
+29437,A. Ramadhan,Andi,Ramadhan,28,Indonesia,170 cm,,,Goalkeeper,https://media.api-sports.io/football/players/29437.png,1997-02-08,,Indonesia
+29438,P. Samallo,Pijai,Samallo,28,Indonesia,,,,Goalkeeper,https://media.api-sports.io/football/players/29438.png,1996-10-28,,Indonesia
+29448,I. Faturrahman,Iman,Faturrahman,30,Indonesia,,,,Midfielder,https://media.api-sports.io/football/players/29448.png,1994-08-31,,Indonesia
+29460,M. Barry,Mamadou Hady,Barry,39,Guinea,190 cm,82 kg,,Attacker,https://media.api-sports.io/football/players/29460.png,1986-05-16,,Guinea
+29465,Willyando,Willyando,Willyando,27,Indonesia,170 cm,59 kg,,Attacker,https://media.api-sports.io/football/players/29465.png,1997-09-23,,Indonesia
+29466,S. Johansah,Sendri,Johansah,32,Indonesia,,,,Goalkeeper,https://media.api-sports.io/football/players/29466.png,1993-06-11,,Indonesia
+29469,S. Putra,Satriawan Eka,Putra,26,Indonesia,180 cm,78 kg,,Goalkeeper,https://media.api-sports.io/football/players/29469.png,1998-10-02,,Indonesia
+29481,M. Syukron,Muhamad,Syukron,28,Indonesia,182 cm,65 kg,,Defender,https://media.api-sports.io/football/players/29481.png,1997-02-22,,Indonesia
+29486,R. Gullid,Ruud,Gullid,32,Indonesia,173 cm,,,Midfielder,https://media.api-sports.io/football/players/29486.png,1992-12-09,,Indonesia
+29489,A. Rahman,Arif Yanggi,Rahman,31,Indonesia,,,,Midfielder,https://media.api-sports.io/football/players/29489.png,1994-02-20,Solok,Indonesia
+29490,M. Wahyu,Muhammed,Widya Wahyu Fitriyanto,36,Indonesia,172 cm,65 kg,,Midfielder,https://media.api-sports.io/football/players/29490.png,1989-05-11,,Indonesia
+29492,E. Ermawansyah,Erik Dwi,Ermawansyah,29,Indonesia,166 cm,65 kg,,Attacker,https://media.api-sports.io/football/players/29492.png,1996-04-19,,Indonesia
+29493,A. Erwanto,Agung Fendy,Erwanto,0,Indonesia,,,,Attacker,https://media.api-sports.io/football/players/29493.png,2025-06-25,,Indonesia
+29496,A. Pamungkas,Albi Lanju,Pamungkas,28,Indonesia,160 cm,50 kg,,Attacker,https://media.api-sports.io/football/players/29496.png,1997-02-14,,Indonesia
+29536,A. Maulana,Adam,Maulana,28,Indonesia,172 cm,,,Defender,https://media.api-sports.io/football/players/29536.png,1997-03-26,,Indonesia
+29540,Izaac Wanggai,Izaac Yohanes,Wanggai,43,Indonesia,170 cm,67 kg,,Defender,https://media.api-sports.io/football/players/29540.png,1982-05-19,Manokwari,Indonesia
+29556,M. Pribadi,Muhammad,Agung Pribadi,35,Indonesia,171 cm,63 kg,,Defender,https://media.api-sports.io/football/players/29556.png,1989-07-03,Bandung,Indonesia
+29559,J. Kustiawan,Jodi,Kustiawan,33,Indonesia,176 cm,,,Defender,https://media.api-sports.io/football/players/29559.png,1992-05-15,,Indonesia
+29570,D. Permana,Dio,Permana,30,Indonesia,168 cm,,,Midfielder,https://media.api-sports.io/football/players/29570.png,1995-06-07,Malang,Indonesia
+29581,J. Arey,Jaelani,Arey Sibi,36,Indonesia,165 cm,69 kg,,Defender,https://media.api-sports.io/football/players/29581.png,1989-04-24,,Indonesia
+29584,N. Pasura,Nico,Pasura,27,Indonesia,,,,Defender,https://media.api-sports.io/football/players/29584.png,1998-05-21,,Indonesia
+29585,A. Permana,Anggi Indra,Permana,34,Indonesia,178 cm,69 kg,5,Defender,https://media.api-sports.io/football/players/29585.png,1990-11-06,Bandung,Indonesia
+29587,F. Wajdi,Farid,Wajdi,0,Indonesia,,,,Defender,https://media.api-sports.io/football/players/29587.png,2025-06-25,,Indonesia
+29590,T. Ayomi,Tonny Roy,Ayomi,33,Indonesia,168 cm,,,Midfielder,https://media.api-sports.io/football/players/29590.png,1991-08-02,,Indonesia
+29594,J. Puhili,Jhon,Puhili,25,Indonesia,,,,Midfielder,https://media.api-sports.io/football/players/29594.png,2000-03-13,,Indonesia
+29597,A. Pairie,Anton,Sandi Pairie,0,Indonesia,,,,Midfielder,https://media.api-sports.io/football/players/29597.png,2025-06-25,,Indonesia
+29598,Z. Sukman,Ziko,Sukman,28,Indonesia,,,,Midfielder,https://media.api-sports.io/football/players/29598.png,1996-07-09,,Indonesia
