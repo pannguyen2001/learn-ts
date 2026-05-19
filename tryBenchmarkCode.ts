@@ -1,30 +1,34 @@
-// var timer = function(name: unknown) {
-//     var start = new Date();
-//     return {
-//         stop: function() {
-//             var end  = new Date();
-//             var time = end.getTime() - start.getTime();
-//             logger.info('Timer:', name, 'finished in', time, 'ms');
-//         }
-//     }
-// };
-// var t = timer('Some label');
-// // code to benchmark
-// t.stop(); // prints the time elapsed to the js console
+import logger from "./functions/logging/log4js";
 
-// console.clear()
+var timer = function(name: unknown) {
+    var start = new Date();
+    return {
+        stop: function() {
+            var end  = new Date();
+            var time = end.getTime() - start.getTime();
+            logger.info('Timer:', name, 'finished in', time, 'ms');
+        }
+    }
+};
+var t = timer('Some label');
+// code to benchmark
+t.stop(); // prints the time elapsed to the js console
 
-// const powerOf = (x: number) => (y: number) => Math.pow(x, y)
-// const powerOfThree = powerOf(3)
+console.clear()
 
-// function performanceCalc(fn: Function, ...params: any) {
-//     const start = +new Date()
-//     const result = fn(...params)
-//     const end = +new Date()
+const powerOf = (x: number) => (y: number) => Math.pow(x, y)
+const powerOfThree = powerOf(3)
+export { powerOfThree }
 
-//     logger.info(`Result: ${result}. Execution Time: ${end - start} ms`)
-// }
+function performanceCalc(fn: Function, ...params: any) {
+    const start = +new Date()
+    const result = fn(...params)
+    const end = +new Date()
+
+    logger.info(`Result: ${result}. Execution Time: ${end - start} ms`)
+}
 
 // performanceCalc(powerOfThree, 2)
+export default performanceCalc;
 
 

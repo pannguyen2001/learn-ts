@@ -22,7 +22,7 @@ log4js.configure({
       type: "stdout",
       layout: {
         type: "pattern",
-        pattern: "%[[%p][%d{yyyy/MM/dd hh:mm:ss}][%f{2}:%M:%l]%] %m",
+        pattern: "[\x1b[1m%[%p%]\x1b[0m][\x1b[36m%d{yyyy-MM-dd hh:mm:ss}\x1b[0m][\x1b[35m%f{1}:%M:%l:%o\x1b[0m]%n\x1b[1m%[%m%]\x1b[0m",
       },
     },
     app: {
@@ -32,14 +32,16 @@ log4js.configure({
       numBackups: 3,
       layout: {
         type: "pattern",
-        pattern: "[%p][%d{yyyy/MM/dd hh:mm:ss}][%f{2}:%M:%l] %m%n",
+        // pattern: "[%p][%d{yyyy-MM-dd hh:mm:ss}][%f{1}:%M:%l] %m%n",
+        pattern: "[%p][%d{yyyy-MM-dd hh:mm:ss}][%f{1}:%M:%l]%n%m",
       },
     },
   },
   categories: {
-    default: { appenders: ["out", "app"], level: "trace", autoLogCaller: true, enableCallStack: true },
+    default: { appenders: ["out", "app"], level: "debug", enableCallStack: true },
     // app: { appenders: ["app"], level: "trace"},
   },
 });
 
-export const logger = log4js.getLogger();
+const logger = log4js.getLogger();
+export default logger;
