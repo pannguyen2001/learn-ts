@@ -63,73 +63,22 @@ function test(num1: number, num2: number) {
 import { bench, run } from 'mitata';
 
 function addLoop(n: number) {
-  let sum = 0;
-  for (let i = 0; i < n; i++) sum += i;
-  return sum;
+    let sum = 0;
+    for (let i = 0; i < n; i++) sum += i;
+    return sum;
 }
 
 function addReduce(n: number) {
-  return Array.from({ length: n }, (_, i) => i).reduce((a, b) => a + b, 0);
+    return Array.from({ length: n }, (_, i) => i).reduce((a, b) => a + b, 0);
 }
 
 bench('For Loop', () => {
-  addLoop(1000);
+    addLoop(1000);
 });
 
 bench('Array Reduce', () => {
-  addReduce(1000);
+    addReduce(1000);
 });
 
-// await run();
+await run();
 
-
-// Source - https://stackoverflow.com/a/4644364
-// Posted by fncomp, modified by community. See post 'Timeline' for change history
-// Retrieved 2026-05-19, License - CC BY-SA 3.0
-
-/**
- * Figure out how long it takes for a method to execute.
- * 
- * @param {Function} method to test 
- * @param {number} iterations number of executions.
- * @param {Array} args to pass in. 
- * @param {T} context the context to call the method in.
- * @return {number} the time it took, in milliseconds to execute.
- */
- function bench(method, iterations, args, context) {
-
-    var time = 0;
-    var timer = function (action) {
-        var d = Date.now();
-        if (time < 1 || action === 'start') {
-            time = d;
-            return 0;
-        } else if (action === 'stop') {
-            var t = d - time;
-            time = 0;    
-            return t;
-        } else {
-            return d - time;    
-        }
-    };
-
-    var result = [];
-    var i = 0;
-    timer('start');
-    while (i < iterations) {
-        result.push(method.apply(context, args));
-        i++;
-    }
-
-    var execTime = timer('stop');
-
-    if ( typeof console === "object") {
-        console.log("Mean execution time was: ", execTime / iterations);
-        console.log("Sum execution time was: ", execTime);
-        console.log("Result of the method call was:", result[0]);
-    }
-
-    return execTime;  
-};
-
-bench(addLoop(1000), 1000, [], null)

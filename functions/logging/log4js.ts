@@ -4,7 +4,7 @@
  * If not need json log to send to FE, using it is the better.
  */
 import log4js from "log4js";
-import { LOG_FOLDER_PATH, DATE_FORMAT } from "../../utils/config";
+import { LOG_FOLDER_PATH, DATE_FORMAT } from "@/utils/config";
 import moment from "moment";
 import * as fs from "fs";
 
